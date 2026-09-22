@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Vedant Mahendra Hatpale 👋
 
-<!--
-**Vedanttt466/Vedanttt466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Engineering Student interested in Backend Development, APIs, Databases and Full-Stack Development.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+Java • JavaScript • Python • C++
+
+### Backend
+Spring Boot • Node.js • REST APIs
+
+### Frontend
+React.js • HTML • CSS
+
+### Databases
+MySQL • MongoDB
+
+### Tools
+Git • GitHub • VS Code
+
+## 🚀 Featured Projects
+
+### 🎮 Gaming Cafe Management System
+Full-stack gaming cafe booking and management system built with React, backend services and database integration.
+
+### 🪖 Bike Helmet Detection
+Real-time helmet detection system using YOLO and OpenCV.
+
+### 📊 Food Delivery Customer Churn Prediction
+Machine learning project using XGBoost and Random Forest to predict customer churn.
+
+## 🎯 Currently Learning
+
+- REST API development
+- API testing with Postman
+- Backend development
+- Linux fundamentals
+- Data Structures & Algorithms
+
+## 🔗 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/vedant-hatpale-0189072b1/)

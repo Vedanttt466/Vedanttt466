@@ -30,13 +30,13 @@ Real-time helmet detection system using YOLO and OpenCV.
 ###  Food Delivery Customer Churn Prediction
 Machine learning project using XGBoost and Random Forest to predict customer churn.
 
-##  Currently Learning
+##  Current Focus
 
-- REST API development
-- API testing with Postman
-- Backend development
-- Linux fundamentals
+- Java & Spring Boot
+- REST APIs & Backend Development
+- MySQL & MongoDB
 - Data Structures & Algorithms
+- Software Engineering
 
 ##  Connect With Me
 

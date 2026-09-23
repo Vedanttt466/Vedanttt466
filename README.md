@@ -1,8 +1,8 @@
-# Hi, I'm Vedant Mahendra Hatpale 👋
+# Hi, I'm Vedant Mahendra Hatpale 
 
 IT Engineering Student interested in Backend Development, APIs, Databases and Full-Stack Development.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 Java • JavaScript • Python • C++
@@ -19,18 +19,18 @@ MySQL • MongoDB
 ### Tools
 Git • GitHub • VS Code
 
-## 🚀 Featured Projects
+## 🚀Featured Projects
 
-### 🎮 Gaming Cafe Management System
+###  Gaming Cafe Management System
 Full-stack gaming cafe booking and management system built with React, backend services and database integration.
 
-### 🪖 Bike Helmet Detection
+###  Bike Helmet Detection
 Real-time helmet detection system using YOLO and OpenCV.
 
-### 📊 Food Delivery Customer Churn Prediction
+###  Food Delivery Customer Churn Prediction
 Machine learning project using XGBoost and Random Forest to predict customer churn.
 
-## 🎯 Currently Learning
+##  Currently Learning
 
 - REST API development
 - API testing with Postman

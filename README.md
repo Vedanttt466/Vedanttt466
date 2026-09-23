@@ -19,7 +19,7 @@ MySQL • MongoDB
 ### Tools
 Git • GitHub • VS Code
 
-## 🚀Featured Projects
+## Featured Projects
 
 ###  Gaming Cafe Management System
 Full-stack gaming cafe booking and management system built with React, backend services and database integration.
@@ -38,6 +38,6 @@ Machine learning project using XGBoost and Random Forest to predict customer chu
 - Linux fundamentals
 - Data Structures & Algorithms
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/vedant-hatpale-0189072b1/)
